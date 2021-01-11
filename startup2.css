@@ -1,0 +1,35 @@
+img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 30%;
+    margin-top: 20px;
+}
+
+h1{
+    font-size: 80px;
+    text-align: center;
+}
+
+p{
+    font-size: 18px; 
+    width: 100%;
+}
+
+.login{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 30%;
+    font-size: 18px;
+}
+
+div .subscribe{
+    background-color: rgba(10, 135, 238, 0.863);
+    width: 63%;
+    height: 30%;
+}
